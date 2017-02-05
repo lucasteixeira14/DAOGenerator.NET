@@ -1,0 +1,2 @@
+# DAOGenerator.NET
+DAOGenerator MYSQL
